@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_R01849751_Calculator</string>
+    <string name="class_string1">Class 1</string>
+    <string name="class_string2">Class 2</string>
+    <string name="class_string3">Class 3</string>
+    <string name="class_string4">Class 4</string>
+    <string name="class_string5">Class 5</string>
+    <string name="enter_GPA">Enter GPA</string>
+    <string name="comp_GPA">Compute GPA</string>
+    <string name="final_GPA">Final GPA</string>
+</resources>
